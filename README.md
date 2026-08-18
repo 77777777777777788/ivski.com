@@ -16,7 +16,7 @@ A self-hosted web platform offering cloud services, developer tools, and managed
 | IVski Cloud | https://cloud.ivski.com | Nextcloud-based personal & business cloud storage |
 | IVski Web | https://web.ivski.com | Managed web hosting for businesses |
 | IVski TYPO3 | https://typo3.ivski.com | Managed TYPO3 v13 hosting for the DACH market |
-| IVski Site | https://site.ivski.com | Website builder & hosting |
+| IVski Kasse | https://kasse.ivski.com | POS system for restaurants & retail |
 | IVski Linux | https://linux.ivski.com | Linux Playground & Virtual Terminal |
 
 ---
