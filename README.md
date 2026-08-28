@@ -34,6 +34,7 @@ All tools run entirely in the browser. No data is sent to any server, ever.
 | Password Tool | https://password.ivski.com | Secure password generator |
 | Cron Wizard | https://cronwizard.ivski.com | Visual cron expression builder |
 | IP Lookup | https://iplookup.ivski.com | IP address geolocation and info lookup |
+| Multi Generator | https://gen.ivski.com | Generate passwords, passphrases, hashes, HMACs, UUIDs/ULIDs, tokens, slugs and Lorem Ipsum. |
 
 ---
 
